@@ -25,7 +25,4 @@ JavaScript is my "native" programming language, I've worked with it for over 3 y
 ![Prettier](https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white)
 ![Oh my ZSH](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torrescristian&hide=TeX&layout=compact)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=torrescristian.torrescristian)
