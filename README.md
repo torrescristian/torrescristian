@@ -1,8 +1,26 @@
 ## Welcome to my github!
 
-Hello! I'm Cristian Torres, I'm a Full Stack JS Developer based in Argentina 🇦🇷 passionate about clean code and now about blockchain.
+I'm a React Developer based in Argentina 🇦🇷 passionate about clean code
 
-JavaScript is my "native" programming language, I've worked with it for over 7 years. I've used it in the front-end with Angular, React and Redux, in the back-end for APIs with Node, Express, and for testing automation using Mocha and later on, Jest.
+🟡 JavaScript is my "native" programming language, I've worked with it for over 7 years. 
+
+- I've used it in the front-end with React, Redux, React Query and React Hook Form, Styled Components, and Tailwind. 
+
+- In the back-end for APIs with Node, Express, and a lot of NoSQL DBs
+
+- I have experience with infrastructure using Firebase, AWS Amplify, serverless framework (IAM, Lambda, DynamoDB, API Gateway, Cognito)
+
+- And for testing automation Jest, Cypress, and React Testing Library.
+
+📚 Some books that inspire my work are:
+
+- Lean Startup by Eric Ries
+- Clean Code & Clean Architecture by Uncle Bob
+- Refactoring by Martin Fowler
+- You Don't Know JS by Kyle Simpson
+- Refactoring UI by Tailwind creators
+- Design Patterns by refactoring.guru
+
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-tomas-torres/)](https://www.linkedin.com/in/cristian-tomas-torres/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cristiantomastorres@gmail.com)](mailto:cristiantomastorres@gmail.com)
