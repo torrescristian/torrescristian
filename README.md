@@ -2,7 +2,7 @@
 
 Hello! I'm Cristian Torres, I'm a Full Stack JS Developer based in Argentina 🇦🇷 passionate about clean code and now about blockchain.
 
-JavaScript is my "native" programming language, I've worked with it for over 3 years. I've used it in the front-end with Angular, React and Redux, in the back-end for APIs with Node, Express, and for testing automation using Mocha and later on, Jest.
+JavaScript is my "native" programming language, I've worked with it for over 7 years. I've used it in the front-end with Angular, React and Redux, in the back-end for APIs with Node, Express, and for testing automation using Mocha and later on, Jest.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-tomas-torres/)](https://www.linkedin.com/in/cristian-tomas-torres/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cristiantomastorres@gmail.com)](mailto:cristiantomastorres@gmail.com)
