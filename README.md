@@ -1,24 +1,33 @@
 ## Welcome to my github!
 
-I'm a React Developer based in Argentina 🇦🇷 passionate about clean code
+# Professional Summary
 
-🟡 JavaScript is my "native" programming language, I've worked with it for over 7 years. 
+Senior React Architect with more than 7 years of experience specializing in the design and execution of scalable, maintainable web applications. Expert in implementing Clean Architecture, Hexagonal Architecture, and Atomic Design principles to solve complex business logic in the Fintech, Logistics, and Blockchain sectors. Proven track record in leading greenfield projects, architecting "offline-first" enterprise solutions, and optimizing microfrontend ecosystems for high-growth global organizations.
 
-- I've used it in the front-end with React, Redux, React Query and React Hook Form, Styled Components, and Tailwind. 
+# Core Competencies
 
-- In the back-end for APIs with Node, Express, and a lot of NoSQL DBs
+- Frontend: React, TypeScript, Tailwind, JavaScript (ES6+), Storybook
 
-- I have experience with infrastructure using Firebase, AWS Amplify, serverless framework (IAM, Lambda, DynamoDB, API Gateway, Cognito)
+- State & Data: React Query, Zustand, RTK (Redux Toolkit), RHF (React Hook Form)
 
-- And for testing automation Jest, Cypress, and React Testing Library.
+- Architecture: Hexagonal Architecture, Microfrontends, Atomic Design, Clean Architecture
+
+- Testing: Vitest, Playwright, Cypress, RTL (React Testing Library), Jest
+
+- Backend & Other: AWS Serverless, Node.js, Express.js, REST API, Solidity, Firebase
 
 📚 Some books that inspire my work are:
 
 - Lean Startup by Eric Ries
+
 - Clean Code & Clean Architecture by Uncle Bob
+
 - Refactoring by Martin Fowler
+
 - You Don't Know JS by Kyle Simpson
+
 - Refactoring UI by Tailwind creators
+
 - Design Patterns by refactoring.guru
 
 
